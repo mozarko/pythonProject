@@ -27,3 +27,7 @@ date1 = date(2018, 7, 13)
 date2 = date(2018, 7, 13)
 
 print(saturdays_between_two_dates(date1, date2))
+date1 = date(2018, 7, 13)
+date2 = date(2018, 7, 13)
+
+print(saturdays_between_two_dates(date1, date2))
